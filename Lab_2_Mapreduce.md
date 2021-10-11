@@ -1,3 +1,7 @@
+This is the link to my git hub project
+
+https://github.com/RomainLeveille/Lab2_Yarn.git
+
 # LAB_2 YARN & MAPREDUCE 2
 
 # 1 MapReduce JAVA
